@@ -49,23 +49,23 @@ Split the pipe-separated genres field (e.g. "Action|Adventure") into individual 
 
 ## 📈 Key Findings
 
-#### Most Popular Movies:
+#### - Most Popular Movies:
 Jurassic World tops the list (popularity score 32.99), followed by Mad Max: Fury Road (28.42) and Interstellar (24.95) all from the mid-2010s, reflecting how the popularity metric skews toward recent releases.
-#### Highest-Grossing Movies:
+#### - Highest-Grossing Movies:
 Avatar leads with $2.78B in revenue, ahead of Star Wars: The Force Awakens ($2.07B) and Titanic ($1.85B).
-#### Most Profitable Movies: 
+#### - Most Profitable Movies: 
 Avatar again leads on profit, with Star Wars: The Force Awakens and Titanic close behind  the same handful of blockbusters dominate both revenue and profit rankings.
-#### Budget vs. Revenue Correlation:
+#### - Budget vs. Revenue Correlation:
 0.69  a moderately strong positive relationship. Bigger budgets tend to earn more, but the correlation isn't strong enough to guarantee it; plenty of low-budget films outperform expensive ones.
-#### Most Common Genres: 
+#### - Most Common Genres: 
 Drama (4,760 movies), Comedy (3,793), and Thriller (2,907) are the three most frequent genres in the dataset.
-#### Highest-Earning Genres (by average revenue):
+#### - Highest-Earning Genres (by average revenue):
 Animation leads at $257.1M average revenue per movie, ahead of Adventure ($218.3M) and Fantasy ($218.2M)  notably, none of the three most common genres (Drama, Comedy, Thriller) crack the top of the revenue ranking.
-#### Movies Released Per Year:
+#### - Movies Released Per Year:
 Output trends upward over time, consistent with the film industry's overall growth in volume.
-#### Most Prolific Directors:
+#### - Most Prolific Directors:
 Woody Allen leads with 45 movies in the dataset, followed by Clint Eastwood (34), and a tie between Steven Spielberg and Martin Scorsese (29 each).
-#### Typical Runtime: 
+#### - Typical Runtime: 
 Median runtime is 99 minutes (mean 102.1 minutes), with the middle 50% of movies (25th–75th percentile) running 90–111 minutes.
 Popularity vs. Rating Correlation: 0.21 — a weak relationship. A highly-rated movie isn't necessarily a popular one, and vice versa.
 
