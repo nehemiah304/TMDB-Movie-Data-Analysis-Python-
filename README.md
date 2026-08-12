@@ -28,7 +28,8 @@ Which directors have the most movies in this dataset?
 What's the typical movie runtime?
 Is a movie's popularity related to how well it's rated (vote average)?
 
-## 📚 Dataset Description Source: TMDB movie dataset (tmdb__1_.xlsx) — 10,869 records, 21 columns. Columns retained after cleaning: id, popularity, budget, revenue, original_title, cast, director, runtime, genres, release_date, vote_count, vote_average, release_year, budget_adj, revenue_adj. Columns dropped: homepage, tagline, overview, keywords, imdb_id, production_companies — not needed for this analysis.
+## 📚 Dataset Description Source: 
+TMDB movie dataset (tmdb__1_.xlsx) — 10,869 records, 21 columns. Columns retained after cleaning: id, popularity, budget, revenue, original_title, cast, director, runtime, genres, release_date, vote_count, vote_average, release_year, budget_adj, revenue_adj. Columns dropped: homepage, tagline, overview, keywords, imdb_id, production_companies — not needed for this analysis.
 
 ## 🛠 Tools & Technologies Used
 
