@@ -1,7 +1,7 @@
 # TMDB-Movie-Data-Analysis-Python-
 This project analyzed a dataset of movies from The Movie Database (TMDB), covering titles, budgets, revenue, popularity scores, genres, directors, release dates, and vote averages. The goal was to uncover patterns in what drives a movie's commercial and audience success, using Python for the full analysis pipeline.
 
-** 🔍 Overview:
+ ## 🔍 Overview :
 This project performs exploratory data analysis (EDA) on TMDB movie data using Python. Ten analytical questions were developed to uncover what drives a movie's commercial and audience success — from blockbuster revenue and profitability to genre economics, director output, and the relationship between popularity and rating.
 
 The goal is to surface patterns that explain why certain movies dominate box-office and popularity charts, and to build a clean, defensible dataset that separates "unknown" financial data from genuinely low-budget/low-revenue films.
